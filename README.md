@@ -1,9 +1,9 @@
-# Projeto Final: State Of Data Brazil
+# Projeto: State Of Data Brazil
 
 
 Este repositório é destinado ao Projeto Final do curso do EBA
 
-## INSTRUÇÕES PARA REALIZAÇÃO DO PROJETO FINAL:
+## INSTRUÇÕES PARA REALIZAÇÃO DO PROJETO:
 
 **Proposta geral:** "Quais são os fatores associados aos salários na área de dados no Brasil?"
 

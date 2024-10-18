@@ -1,7 +1,7 @@
 # Projeto: State Of Data Brazil
 
 
-Este repositório é destinado ao Projeto Final do curso do EBA
+Este repositório é destinado ao Projeto do curso do EBA
 
 ## INSTRUÇÕES PARA REALIZAÇÃO DO PROJETO:
 
@@ -39,8 +39,8 @@ Este repositório contém os arquivos e códigos necessários para a aula de Est
 No terminal, clone este repositório:
 
 ```bash
-git clone https://github.com/EbaPed/Projeto-Final-StateOfDataBrazil.git
-cd Projeto-Final-StateOfDataBrazil
+git clone https://github.com/EbaPed/Projeto-StateOfDataBrazil.git
+cd Projeto-StateOfDataBrazil
 ```
 
 2. **Configurar a versão do Python com Pyenv**
